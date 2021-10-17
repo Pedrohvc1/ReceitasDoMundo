@@ -1,0 +1,13 @@
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.exe
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.deps.json
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.runtimeconfig.json
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.runtimeconfig.dev.json
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.dll
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\bin\Debug\netcoreapp3.1\ReceitasDoMundo.pdb
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.csprojAssemblyReference.cache
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.AssemblyInfoInputs.cache
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.AssemblyInfo.cs
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.csproj.CoreCompileInputs.cache
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.dll
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.pdb
+D:\ADS\Projetos\.NET\ReceitasDoMundo\ReceitasDoMundo\obj\Debug\netcoreapp3.1\ReceitasDoMundo.genruntimeconfig.cache

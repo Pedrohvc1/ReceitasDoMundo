@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8QpsbN7LDCQOrepl1voOi50Tym0bdGlC/zC5XgIlF2mc2hz8+wrdOzF65IbnBafKzHpM61mckunu1i+Dkzp/cA==",
+  "success": true,
+  "projectFilePath": "D:\\ADS\\Projetos\\.NET\\ReceitasDoMundo\\ReceitasDoMundo\\ReceitasDoMundo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WINDOWS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
